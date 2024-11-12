@@ -41,7 +41,7 @@ Welcome to the Godot In Game Building System! This project is a comprehensive st
 To get started with Building System:
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/godot-house-building-system.git
+   git clone https://github.com/MinhCreator/modular-building-system-godot.git
 2. Open Godot 4 and import the project.
 3. Open the demo_scene.tscn from BuildingSystem folder
 4. Run the project to see it in action and start building!
