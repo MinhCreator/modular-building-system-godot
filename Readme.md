@@ -2,8 +2,8 @@
 
 Supporting this project helps me continue to work on it and improve it. If you find it useful, consider contributing through the following methods:
 
-[//][![PayPal](https://img.shields.io/badge/PayPal-donate-blue?style=flat-square&logo=paypal)](https://paypal.me/dmitrovicmarko?country.x=RS&locale.x=en_US)
-[//][![Ko-fi](https://img.shields.io/badge/Ko_fi-buy%20me%20a%20coffee-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/whymanually)
+[//] [![PayPal](https://img.shields.io/badge/PayPal-donate-blue?style=flat-square&logo=paypal)](https://paypal.me/dmitrovicmarko?country.x=RS&locale.x=en_US)
+[//] [![Ko-fi](https://img.shields.io/badge/Ko_fi-buy%20me%20a%20coffee-yellow?style=flat-square&logo=kofi)](https://ko-fi.com/whymanually)
 
 Please consider donating if you think this project has helped you or that it has potential.
 
